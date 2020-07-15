@@ -5,9 +5,9 @@ Examples of property based testing in various languages
 
 ## Languages with examples:
 - perl
+- c++
 
 ## TODO
-- c++
 - java
 - go
 - python
